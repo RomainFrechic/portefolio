@@ -1,0 +1,79 @@
+
+.body{
+    background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;
+	color: #333;
+	font-family: 'Oswald', Arial, sans-serif;
+	font-size: 13px;
+}
+
+a{
+	color: #b2891b;
+	text-decoration: none;
+}
+
+.colortext{
+    color: #b2891b;
+}
+
+.colortext:hover{
+    color:red;
+}
+
+#buttAcceuil:hover{
+      font-size: 22px;
+      border-radius: 50% 50%;
+    -webkit-transition: all 0.6s linear;
+   -moz-transition: all 0.6s linear;
+   -o-transition: all 0.6s linear;
+   -ms-transition: all 0.6s linear;
+   transition: all 0.6s linear;
+}
+
+.main{
+	position:relative;
+    width:680px;
+    margin: 0 auto;
+}
+
+.position{
+    width:680px;
+    margin: 0 auto;
+}
+
+#cadre{
+    bottom:10px;
+	border:2px solid #b2891b;
+	font-style: italic;
+	padding: 10px;
+}
+
+.font{
+	font-size: 16px;
+}
+
+h1{
+	margin:0px;
+	padding:20px 20px 10px 20px;
+	font-size:34px;
+	color:#333;
+    text-shadow:1px 1px 1px #fff;
+	text-align:left;
+	font-weight:400;
+    text-align:center;
+}
+h1 span{
+    display:block;
+	font-size: 14px;
+    font-family: Georgia, serif;
+    font-style: italic;
+	color:#b2891b;
+	padding-top:10px;
+}
+
+h2{
+	color:#b2891b;
+}
+
+.heighT{
+	height: 50px;
+}
