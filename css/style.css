@@ -3,7 +3,7 @@
     background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;
 	color: #333;
 	font-family: 'Oswald', Arial, sans-serif;
-	font-size: 13px;
+	font-size: 25px;
 }
 
 a{
@@ -76,4 +76,19 @@ h2{
 
 .heighT{
 	height: 50px;
+}
+
+.positionDeux{
+	width:350px;
+    margin: 0 auto;
+}
+
+.positionTrois{
+   width:350px;
+   height: 300px;
+    margin: 0 auto;
+
+}
+.acceuil{
+	background:#f9f9f9 url(https://unsplash.it/1608/1090?image=532) repeat top left;
 }
